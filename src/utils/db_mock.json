@@ -1,0 +1,154 @@
+[
+    {
+        "id": 1,
+        "profilePicture": "./profile/1.jpeg",
+        "status": "viewed",
+        "name": "Rohit",
+        "stories": [
+            {
+                "id": 1,
+                "imageUrl": "./story/1.jpg"
+            },
+            {
+                "id": 2,
+                "imageUrl": "./story/2.webp"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "profilePicture": "./profile/2.jpeg",
+        "status": "viewed",
+         "name": "Mudit",
+        "stories": [
+            {
+                "id": 1,
+                "imageUrl": "./story/3.png"
+            },
+            {
+                "id": 2,
+                "imageUrl": "./story/4.jpeg"
+            },
+            {
+                "id": 1,
+                "imageUrl": "./story/5.webp"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "profilePicture": "./profile/3.jpeg",
+        "status": "viewed",
+         "name": "Ashu",
+        "stories": [
+            {
+                "id": 1,
+                "imageUrl": "./story/6.jpeg"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "profilePicture": "./profile/4.jpeg",
+        "status": "viewed",
+         "name": "Hitesh",
+        "stories": [
+            {
+                "id": 1,
+                "imageUrl": "./story/7.jpeg"
+            },
+            {
+                "id": 2,
+                "imageUrl": "./story/8.jpeg"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "profilePicture": "./profile/5.jpeg",
+        "status": "viewed",
+         "name": "Rohan",
+        "stories": [
+            {
+                "id": 1,
+                "imageUrl": "./story/9.jpeg"
+            },
+            {
+                "id": 2,
+                "imageUrl": "./story/10.jpeg"
+            }
+        ]
+    },{
+        "id": 6,
+        "profilePicture": "./profile/6.jpeg",
+        "status": "viewed",
+         "name": "Ankur",
+        "stories": [
+            {
+                "id": 1,
+                "imageUrl": "./story/11.jpeg"
+            }
+        ]
+    }
+    ,{
+        "id": 7,
+        "profilePicture": "./profile/7.jpeg",
+        "status": "viewed",
+         "name": "Ayushi",
+        "stories": [
+            {
+                "id": 1,
+                "imageUrl": "./story/12.jpeg"
+            },
+            {
+                "id": 2,
+                "imageUrl": "./story/13.jpeg"
+            }
+        ]
+    },{
+        "id": 8,
+        "profilePicture": "./profile/8.jpeg",
+        "status": "viewed",
+         "name": "Arushi",
+        "stories": [
+            {
+                "id": 1,
+                "imageUrl": "./story/14.jpeg"
+            },
+            {
+                "id": 2,
+                "imageUrl": "./story/8.jpeg"
+            }
+        ]
+    },{
+        "id": 9,
+        "profilePicture": "./profile/9.jpeg",
+        "status": "viewed",
+         "name": "Aman",
+        "stories": [
+            {
+                "id": 1,
+                "imageUrl": "./story/5.webp"
+            },
+            {
+                "id": 2,
+                "imageUrl": "./story/2.webp"
+            }
+        ]
+    },{
+        "id": 10,
+        "profilePicture": "./profile/10.jpeg",
+        "status": "viewed",
+         "name": "Saloni",
+        "stories": [
+            {
+                "id": 1,
+                "imageUrl": "./story/10.jpeg"
+            },
+            {
+                "id": 2,
+                "imageUrl": "./story/12.jpeg"
+            }
+        ]
+    }
+]
